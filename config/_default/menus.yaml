@@ -1,0 +1,28 @@
+leftnav:
+- identifier: 6f1265ce-52d4-c510-c760-cefd1310a99a
+  name: Course Overview
+  url: /pages/overview
+  weight: 10
+- identifier: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 20
+- identifier: 1d466add-2c73-0e38-9f76-81575115c5e7
+  name: The Projects
+  url: /pages/the-projects/
+  weight: 30
+- identifier: 6e519cf4-8ff2-4e4d-3420-3a9f41ddec14
+  name: Using Technology to Improve Small Farming in Brazil
+  parent: 1d466add-2c73-0e38-9f76-81575115c5e7
+  url: /pages/the-projects/aline
+  weight: 40
+- identifier: ed4a5f75-f358-1e9f-b2a5-5e186ef4eb19
+  name: Innovations Across the Agriculture Value Chain
+  parent: 1d466add-2c73-0e38-9f76-81575115c5e7
+  url: /pages/the-projects/doreen
+  weight: 50
+- identifier: ee8024da-2bfd-36f9-6ec8-9b9c0c308165
+  name: Public Tech Innovation with Real-world Implementation
+  parent: 1d466add-2c73-0e38-9f76-81575115c5e7
+  url: /pages/the-projects/idoia
+  weight: 60
